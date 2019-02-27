@@ -1,4 +1,4 @@
-package http_health_exporter
+package main
 
 import (
 	"github.com/prometheus/client_golang/prometheus"
